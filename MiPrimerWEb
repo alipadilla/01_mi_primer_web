@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="estilos.css">
+    <!-- tipografia -->
+    <link href="https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+    <title>Mi primera pagina ALI</title>
+
+</head>
+<body>
+    <!-- Es el título -->
+    <h1>MI PERFIL</h1>
+    <img src="https://scontent.fmex8-1.fna.fbcdn.net/v/t1.0-9/66649248_2818771214831718_4601128662396305408_n.jpg?_nc_cat=102&_nc_ohc=e9KWBbaMFF4AX_N5uMz&_nc_ht=scontent.fmex8-1.fna&oh=1825d58c17f729e420bb429fdb469881&oe=5EC310C2" alt="mi foto de perfil">
+    <!-- imagen desde la carpeta y no link + etiqueta para que tenga diferente tamaño-->
+     <img class="imagenGrande" src="./assets/imgs/sombreros-perritos-7.jpg" alt="perrito con sombrero">
+     <P class="letra2">Soy Ali Padilla</P>
+     <p>Esta es una foto en Santa Fe CDMX</p>
+    
+
+    <!-- links -->
+    <a href="https://www.facebook.com/ali.tacvba3">facebook</a>
+    <a href="https://twitter.com/zponjamaniak03">twitter</a>
+    <a href="https://www.instagram.com/alitacvba/?hl=es-la">instagram</a>
+
+    <!-- icono + link -->
+    <a target="_blank" href="https://www.facebook.com/ali.tacvba3">
+        <img class="icono1" src="https://logodownload.org/wp-content/uploads/2014/09/facebook-logo-2-1.png" alt="facebookAli">
+    </a>
+    <a href="https://www.instagram.com/alitacvba/?hl=es-la">
+        <img class="iconoig" src="https://es.logodownload.org/wp-content/uploads/2018/10/instagram-logo1.png" alt="instagramAli">
+    </a>
+    <a href="https://twitter.com/zponjamaniak03">
+        <img class="iconotw" src="https://1000marcas.net/wp-content/uploads/2019/11/Logo-Twitter.png" alt="twitterAli">
+    </a>
+
+
+
+</body>
+</html>
